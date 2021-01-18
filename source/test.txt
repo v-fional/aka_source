@@ -1,0 +1,9 @@
+apple
+banana
+cat
+dog
+fox
+gorrila
+hen
+insect
+kick
